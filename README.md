@@ -9,7 +9,7 @@ A below figure is plotting data sampled by this library.
 ## Usage
 * Add :dependencies in your project.clj file.
     ```
-    [mrcsce/normal-distribution "0.0.1"]
+    [mrcsce/normal-distribution "0.1.0"]
     ```
 * Add :require in your clj file to import the library.
 * Use a function `sample-normal-distribution` like a below.
